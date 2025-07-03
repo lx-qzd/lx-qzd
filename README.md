@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Alejandro Quezada
 
-<!--
-**lx-qzd/lx-qzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software technologist and aspiring frontend developer based in the Dominican Republic. Currently studying Ingeniería en TICs at UNIBE. I love building frontend web apps and sharing tech knowledge with others.  
 
-Here are some ideas to get you started:
+💻 Tech Stack:  
+- Frontend: **Vue.js**, **JavaScript (ES6+)**, **HTML**, **CSS**, **jQuery**  
+- Backend: **C#**, **SQL (basic)**  
+- Tools: **Git**, **GitHub**, **VS Code**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals:
+- Become a skilled frontend engineer using modern JS frameworks
+- Build educational resources for Spanish-speaking tech learners
+- Share open-source tutorials and workshops
+
+
