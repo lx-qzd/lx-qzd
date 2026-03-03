@@ -8,6 +8,7 @@ I'm a software technologist and aspiring frontend developer based in the Dominic
 - Tools: **Git**, **GitHub**, **VS Code**
 
 🎯 Goals:
+- Aspiring Web Developer interested in the Swedish tech ecosystem
 - Become a skilled frontend engineer using modern JS frameworks
 - Build educational resources for Spanish-speaking tech learners
 - Share open-source tutorials and workshops
